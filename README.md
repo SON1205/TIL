@@ -11,11 +11,11 @@
 - **[00 startcamp](./00%20startcamp/)**: 개발 입문 과정에서 배운 기초 개념 (예: Git, Markdown 등)
 - **[01 ssafy_java](./01%20ssafy_java/)**: SSAFY Java 학습과 관련된 내용 (예: 라이브 강의, Java 기본 개념 등)
 - **[02 ssafy_aps](./02%20ssafy_aps/)**: SSAFY 알고리즘 문제 해결(APS) 과정에서 배운 내용 (예: 라이브 강의, 알고리즘 팁 등)
-- **[03 ssafy_front](./01%20ssafy_java/)**: SSAFY front 학습과 관련된 내용 (예: 라이브 강의, HTML, CSS, JavaScript 기본 개념 등)
-- **[04 ssafy_aps](./01%20ssafy_java/)**: SSAFY 알고리즘 문제 해결(APS) 과정에서 배운 내용 (예: 라이브 강의, 알고리즘 팁 등)
-- **[05 ssafy_web_backend](./02%20ssafy_aps/)**: SSAFY Web_BackEnd 학습과 관련된 내용 (예: 라이브 강의, Servlet 기본 개념 등)
-- **[06 ssafy_db](./00%20startcamp/)**: SSAFY DB 학습과 관련된 내용 (예: 라이브 강의, MySQL 기본 개념 등)
-- **[07 ssafy_spring](./01%20ssafy_java/)**: SSAFY Spring 학습과 관련된 내용 (예: 라이브 강의, Spring 기본 개념 등)
+- **[03 ssafy_front](./03%20ssafy_front/)**: SSAFY front 학습과 관련된 내용 (예: 라이브 강의, HTML, CSS, JavaScript 기본 개념 등)
+- **[04 ssafy_aps2](./04%20ssafy_aps2/)**: SSAFY 알고리즘 문제 해결(APS) 과정에서 배운 내용 (예: 라이브 강의, 알고리즘 팁 등)
+- **[05 ssafy_web_backend](./05%20ssafy_web_backend/)**: SSAFY Web_BackEnd 학습과 관련된 내용 (예: 라이브 강의, Servlet 기본 개념 등)
+- **[06 ssafy_db](./06%20ssafy_db/)**: SSAFY DB 학습과 관련된 내용 (예: 라이브 강의, MySQL 기본 개념 등)
+- **[07 ssafy_spring](./07%20ssafy_spring/)**: SSAFY Spring 학습과 관련된 내용 (예: 라이브 강의, Spring 기본 개념 등)
 
 ## 📋 규칙
 - **짧고 간결하게**: 각 항목은 최대한 간결하게 핵심만 기록합니다.
